@@ -1,0 +1,15 @@
+Category,Sub_Area,Status,Learnt,Completed,Not_Learnt,Pending,Notes
+Website,Papa Website,Partial,"XAMPP, WordPress, PHP basics",Tried local WordPress setup,PHP Advanced,"Content, Posting, Editing, Everything","Messed up hosting, got scared"
+Website,Papa YouTube,Not Started,Basic understanding only,Nothing,"Speaking, Content creation, Posting",Everything,Zero execution so far
+Skills,Projects,Partial,"HTML, CSS, JS basics, Streamlit, Python basic-intermediate, C basic-intermediate","Garden website, Streamlit local app","Advanced JS, Tailwind, SQL, UI frameworks",Most projects unfinished,Feels deserted
+Skills,Skill Stack,Partial,"XAMPP, WordPress, PHP basics, Streamlit, Python, HTML, CSS, JS basics, C, Pandas, Netlify",Some small demos,"Advanced PHP, JS, Python, SQL, Frameworks",Everything,Skills exist but not consolidated
+Practice,Coding Practice,Partial,"LeetCode basics, Kaggle basics","Solved 2 LeetCode, partial Kaggle course","DSA mastery, Consistency",Everything pending,Very low momentum
+College,Human Resource Development,Not Started,None,None,Entire syllabus,Study required,Ignored
+College,Image Processing,Partial,"Fourier series, DFT, IDFT",Conceptual understanding,"Applications, practice",Revision needed,Okay-ish subject
+College,DBMS,Partial,Basic SQL concepts,Some theory,"Advanced SQL, practice",Hands-on practice,Weak confidence
+College,Research Methodology,Not Started,None,None,Entire syllabus,Study required,Ignored
+College,Pattern Recognition (ML),Partial,"Supervised, Unsupervised, Feature vectors, NN basics",Theory learnt,Implementation,Practice required,Interesting subject
+College,Computer Networks,Partial,"Hub, Switch, Router, OSI basics",Basic understanding,Deep concepts,Revision,Very surface-level
+Life,Free Time,Empty,Nothing productive,Nothing,"Structure, discipline",Everything,Time exists but wasted
+College Project,Final Year Project,Not Started,Idea stage only,Nothing,"Project clarity, Team","Topic, Group, Execution",Major stress point
+Learning,Tech Exploration,Exploring,"PyVis, Superset, Astro, Panel, H2O Wave",Links collected,Hands-on usage,Actual learning,Tool hoarding phase
